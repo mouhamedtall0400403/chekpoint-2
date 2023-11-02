@@ -1,0 +1,24 @@
+ h1{
+   color: aquamarine;
+ }
+ h2{
+   color: brown;
+ }
+ h3{
+   color: coral;
+ }
+ h4{
+   color: cornflowerblue;
+ }
+ #titre{
+   color: blue;
+ }
+ nav ul li{
+   list-style: none;
+ }
+ nav ul li a{
+text-decoration: none;
+ }
+ nav ul{
+   display: flex;
+ }
